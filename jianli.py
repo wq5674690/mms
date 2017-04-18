@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 这是一个简历分类并把相关字段提取出来写入excel中的小工具
 
 # 招聘网站变量：job
 # 应聘人员变量：jobname
