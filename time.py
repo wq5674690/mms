@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+# 这是一个统计通话时长的小工具，导入特定的表格，抓取数据然后进行简单的处理
 import os,sys
 import shutil
 import xlwt
